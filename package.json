@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SheylaPDV/fundamentos-bootstrap/issues"
   },
-  "homepage": "https://github.com/SheylaPDV/fundamentos-bootstrap#readme"
+  "homepage": "https://github.com/SheylaPDV/fundamentos-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
